@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<h1>Hi World !</h1>, document.getElementById('root')
+ReactDOM.render(<h1>Hello mahdi from GitHub congratulation !!!</h1>, document.getElementById('root')
 );
 
 // If you want your app to work offline and load faster, you can change
